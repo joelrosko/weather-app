@@ -8,4 +8,4 @@ To run application you need Node JS installed
 - Install dependencies
   * `npm install`
 - Start application
-  * `npm start
+  * `npm start`
