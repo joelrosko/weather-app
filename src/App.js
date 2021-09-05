@@ -9,7 +9,7 @@ import WeatherForecast from './components/WeatherForecast';
 import Notification from './components/Notification';
 
 const serviceUrl = 'https://api.openweathermap.org/data/2.5/';
-const apiKey = 'd5d4ea4f2164d89ee79b575b349018c5';
+const apiKey = {API_KEY};
 
 function App() {
   const [notification, setNotification] = useState(false);
